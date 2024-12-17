@@ -71,11 +71,3 @@ bash
 ```
 pip install pyperclip
 ```
-
-## Security Note
-This application does not implement encryption for saved passwords. For additional security, consider encrypting the data.json file.
-
-## Future Improvements
-1. Add encryption for stored passwords.
-2. Implement a master password for accessing the manager.
-3. Improve UI for better user experience.
