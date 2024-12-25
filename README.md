@@ -64,10 +64,9 @@ password-manager/
 ```
 
 ## Requirements
-Python 3
-pyperclip module
+Python3 pyperclip module
 To install the required Python package, run the following command:
-bash
 ```
+bash
 pip install pyperclip
 ```
