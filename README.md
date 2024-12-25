@@ -1,7 +1,7 @@
 # Password Manager
 
 A simple Password Generator and Manager application built using Python and Tkinter. This tool helps you generate strong passwords and securely store them for various websites.
-This project was done as a summary for my first year Python Knowledge.
+Used a .json file as backend database for storing saved passwords with the appropriate websites, and fetches them when required.
 
 ## Features
 
